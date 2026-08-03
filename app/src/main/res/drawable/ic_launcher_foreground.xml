@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Tuning Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#3A3F4D"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M 28,68 A 32,32 0 0,1 80,68" />
+    <!-- Ticks -->
+    <path
+        android:strokeColor="#525B70"
+        android:strokeWidth="2"
+        android:pathData="M 28,68 L 32,65 M 40,46 L 43,50 M 54,36 L 54,41 M 68,46 L 65,50 M 80,68 L 76,65" />
+    <!-- Center In-Tune Indicator Dot -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 54,32 m -3,0 a 3,3 0 1,0 6,0 a 3,3 0 1,0 -6,0" />
+    <!-- Needle pointing straight up (In-tune) -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 54,68 L 54,36" />
+    <!-- Center Pivot -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M 54,68 m -5,0 a 5,5 0 1,0 10,0 a 5,5 0 1,0 -10,0" />
+</vector>

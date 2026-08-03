@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TuneZen</string>
+    <string name="tab_tuner">調音器</string>
+    <string name="tab_presets">預設</string>
+    <string name="tab_settings">設定</string>
+    <string name="tab_history">歷史</string>
+    <string name="signal_active">信號激活</string>
+    <string name="dsp_idle">DSP 待機</string>
+    <string name="ref_pitch">基準音高</string>
+    <string name="tuning_instrument">調音樂器</string>
+    <string name="change">更換</string>
+    <string name="enable_microphone">啟用麥克風</string>
+    <string name="mic_access_required">即時 FFT 調音需要麥克風權限</string>
+    <string name="try_demo_mode">演示模式</string>
+    <string name="stop_demo">停止演示</string>
+    <string name="live_mic_listening">麥克風即時收音中</string>
+    <string name="tuner_paused">調音器已暫停</string>
+    <string name="onboarding_title_1">高精度 DSP 引擎</string>
+    <string name="onboarding_desc_1">基於 YIN 演算法與即時 FFT 頻譜分析，實現音分級精密測音。</string>
+    <string name="onboarding_title_2">多樂器調音預設</string>
+    <string name="onboarding_desc_2">支援吉他、烏克麗麗、小提琴、貝斯、大提琴、曼陀林及自訂律制。</string>
+    <string name="onboarding_title_3">麥克風權限說明</string>
+    <string name="onboarding_desc_3">TuneZen 完全在本地處理音訊，絕不錄製或上傳任何聲音資料。</string>
+    <string name="onboarding_get_started">立即體驗</string>
+    <string name="onboarding_grant_mic">授予麥克風權限</string>
+    <string name="onboarding_skip">直接進入調音</string>
+</resources>

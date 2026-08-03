@@ -1,0 +1,6 @@
+{
+  "name": "TuneZen",
+  "description": "Minimalist instrument tuner & pitch analyzer with 60fps OLED needle, real-time audio FFT, and custom temperaments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

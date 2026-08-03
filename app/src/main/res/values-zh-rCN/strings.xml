@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">TuneZen</string>
+    <string name="tab_tuner">调音器</string>
+    <string name="tab_presets">预设</string>
+    <string name="tab_settings">设置</string>
+    <string name="tab_history">历史</string>
+    <string name="signal_active">信号激活</string>
+    <string name="dsp_idle">DSP 空闲</string>
+    <string name="ref_pitch">基准音高</string>
+    <string name="tuning_instrument">调音乐器</string>
+    <string name="change">更换</string>
+    <string name="enable_microphone">启用麦克风</string>
+    <string name="mic_access_required">实时 FFT 调音需要麦克风权限</string>
+    <string name="try_demo_mode">演示模式</string>
+    <string name="stop_demo">停止演示</string>
+    <string name="live_mic_listening">麦克风实时监听中</string>
+    <string name="tuner_paused">调音器已暂停</string>
+    <string name="onboarding_title_1">高精度 DSP 引擎</string>
+    <string name="onboarding_desc_1">基于 YIN 算法与实时 FFT 频谱分析，实现音分级精密测音。</string>
+    <string name="onboarding_title_2">多乐器调音预设</string>
+    <string name="onboarding_desc_2">支持吉他、尤克里里、小提琴、贝斯、大提琴、曼陀林及自定义律制。</string>
+    <string name="onboarding_title_3">麦克风权限说明</string>
+    <string name="onboarding_desc_3">TuneZen 完全在本地处理音频，绝不录制或上传任何声音数据。</string>
+    <string name="onboarding_get_started">立即体验</string>
+    <string name="onboarding_grant_mic">授予麦克风权限</string>
+    <string name="onboarding_skip">直接进入调音</string>
+
+    <!-- Vocal Trainer & Pitch Stability Features -->
+    <string name="vocal_trainer_category">人声训练</string>
+    <string name="vocal_soprano">女高音音域 (C4 - A5)</string>
+    <string name="vocal_alto">女低音音域 (G3 - F5)</string>
+    <string name="vocal_tenor">男高音音域 (C3 - A4)</string>
+    <string name="vocal_bass">男低音音域 (E2 - E4)</string>
+    <string name="tone_stability">音高稳定性</string>
+    <string name="hold_streak">持续时间</string>
+    <string name="flat_label">偏低 (-50音分)</string>
+    <string name="sharp_label">偏高 (+50音分)</string>
+    <string name="sing_a_pitch">请发声</string>
+    <string name="perfect_tone_support">完美控制</string>
+    <string name="detected_freq">测得频率</string>
+    <string name="target_freq">目标频率</string>
+
+    <!-- Permission Rationale Strings -->
+    <string name="permission_rationale_title">需要麦克风权限</string>
+    <string name="permission_rationale_desc">为了给乐器调音或训练声音，TuneZen需要访问您的麦克风，以便实时捕获并分析音高频率。</string>
+    <string name="permission_privacy_header">100% 安全与离线</string>
+    <string name="permission_privacy_desc">所有数字信号处理（DSP）计算均在您的设备上本地完成。任何音频数据均不会被录制、存储或通过网络发送。</string>
+    <string name="permission_button_settings">打开系统设置</string>
+    <string name="permission_status_denied">权限已被拒绝</string>
+    <string name="permission_denied_help">麦克风权限已被拒绝。您仍可以使用演示模式，或点击下方在系统设置中启用权限以使用实时调音功能。</string>
+</resources>

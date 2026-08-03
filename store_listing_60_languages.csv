@@ -1,0 +1,660 @@
+Language Code,Language Name,App Name (<=30 chars),Short Description (<=80 chars),Full Description (<4000 chars)
+en-US,English (US),TuneZen - Instrument Tuner,"Precision pitch tuner & metronome for Guitar, Ukulele, Violin, Bass & Vocal.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+es-ES,Spanish (Spain),TuneZen - Afinador de Guitarra,"Afinador de precisión y metrónomo para guitarra, ukelele, violín y bajo.","TuneZen es el afinador de instrumentos profesional definitivo.
+
+Características principales:
+• Algoritmo de detección de tono YIN y FFT ultrapreciso
+• Afinado estroboscópico virtual y aguja analógica
+• Más de 24 afinaciones: Guitarra, Ukelele, Bajo, Violín, Cello y Mandolina
+• Curva de estabilidad vocal para cantantes
+• Metrónomo visual con Tap Tempo (30-300 BPM)
+• Biblioteca interactiva de acordes con sonido real
+• Diagnóstico de entonación y estado de cuerdas
+• 100% Sin conexión y privado."
+fr-FR,French,TuneZen - Accordeur Guitare,"Accordeur de précision et métronome pour Guitare, Ukulélé, Violon et Basse.","TuneZen est l'accordeur d'instruments professionnel ultime.
+
+Fonctionnalités principales:
+• Algorithme YIN & FFT de haute précision
+• Accordeur stroboscopique virtuel et aiguille
+• Plus de 24 préréglages: Guitare, Ukulélé, Basse, Violon, Violoncelle
+• Suivi de la stabilité de la voix pour les chanteurs
+• Métronome visuel avec Tap Tempo (30-300 BPM)
+• Dictionnaire d'accords interactif avec son
+• Diagnostic d'intonation et santé des cordes
+• 100% Hors ligne et privé."
+de-DE,German,TuneZen - Gitarren Stimmgerät,"Präzises Stimmgerät & Metronom für Gitarre, Ukulele, Geige und Bass.","TuneZen ist das ultimative professionelle Stimmgerät für Musiker.
+
+Hauptmerkmale:
+• Hochpräziser YIN- & FFT-Tonhöhenerkennungsalgorithmus
+• Virtueller Strobe-Tuner & Nadelanzeige
+• Über 24 Stimmungen: Gitarre, Ukulele, Bass, Geige, Cello
+• Gesangstonhöhen-Stabilitätskurve für Sänger
+• Visuelles Metronom mit Tap Tempo (30-300 BPM)
+• Interaktive Akkordbibliothek mit Audio-Wiedergabe
+• Intonations- und Saitenzustandsdiagnose
+• 100% Offline & Datenschutz garantiert."
+it-IT,Italian,TuneZen - Accordatore Chitarra,"Accordatore di precisione e metronomo per Chitarra, Ukulele, Violino e Basso.","TuneZen è l'accordatore professionale definitivo per tutti i musicisti.
+
+Caratteristiche principali:
+• Algoritmo di rilevamento del tono YIN e FFT ad alta precisione
+• Accordatore stroboscopico virtuale e lancetta
+• Oltre 24 accordature: Chitarra, Ukulele, Basso, Violino, Violoncello
+• Curva di stabilità vocale per cantanti
+• Metronomo visivo con Tap Tempo (30-300 BPM)
+• Libreria di accordi interattiva con audio
+• Strumento di diagnosi dell'intonazione delle corde
+• 100% Offline e riservato."
+pt-BR,Portuguese (Brazil),TuneZen - Afinador de Violão,"Afinador de precisão e metrônomo para Violão, Ukulele, Violino e Baixo.","TuneZen é o afinador profissional definitivo para músicos.
+
+Recursos Principais:
+• Detecção de afinação YIN & FFT ultra-precisa
+• Afinador estroboscópico virtual e ponteiro
+• Mais de 24 afinações: Violão, Ukulele, Baixo, Violino, Cello
+• Gráfico de estabilidade vocal para cantores
+• Metrônomo visual com Tap Tempo (30-300 BPM)
+• Biblioteca de acordes interativa com áudio
+• Diagnóstico de entonação e saúde das cordas
+• 100% Offline e Privado."
+ru-RU,Russian,TuneZen - Тюнер для Гитары,"Точный гитарный тюнер и метроном для гитары, укулеле, скрипки и баса.","TuneZen — это профессиональный музыкальный тюнер высокой точности.
+
+Основные функции:
+• Высокоточный алгоритм определения нот YIN & FFT
+• Виртуальный стробоскопический тюнер и стрелочный индикатор
+• Более 24 настроек: Гитара, Укулеле, Бас-гитара, Скрипка, Виолончель
+• График стабильности вокала для вокалистов
+• Визуальный метроном с функцией Tap Tempo (30-300 BPM)
+• Интерактивная библиотека аккордов с воспроизведением
+• Диагностика интонации и состояния струн
+• 100% Офлайн и безопасно."
+ja-JP,Japanese,TuneZen - ギターチューナー,ギター、ウクレレ、バイオリン、ベース用の高精度チューナー＆メトロノーム。,"TuneZenはミュージシャンのためのプロフェッショナルな高精度チューナーアプリです。
+
+主な機能：
+• 高精度YIN & FFTピッチ検出アルゴリズム
+• バーチャルストロボチューナー＆アナログメーター表示
+• 24種類以上の楽器プリセット：ギター、ウクレレ、ベース、バイオリン、チェロ
+• ボーカルピッチ安定度グラフ表示
+• タップテンポ機能付きビジュアルメトロノーム（30〜300 BPM）
+• 音声再生機能付きインタラクティブコードライブラリ
+• オクターブ精度診断ツール
+• 100% オフライン＆プライバシー保護。"
+zh-CN,Simplified Chinese,TuneZen - 调音器与节拍器,高精度吉他、尤克里里、小提琴、贝斯调音器与节拍器。,"TuneZen 是一款专为音乐人打造的高精度专业调音器与练习套件。
+
+主要功能：
+• 超高精度 YIN & FFT 音高检测算法
+• 虚拟频闪调音器 (Strobe Tuner) 与表盘指示器
+• 24+ 种乐器调音预设：吉他、尤克里里、贝斯、小提琴、大提琴、曼陀林
+• 歌手声乐音高稳定性曲线
+• 支持 Tap Tempo 测速的视觉节拍器 (30-300 BPM)
+• 带有单音试听功能的和弦图表库
+• 弦乐八度音准诊断工具
+• 100% 离线运行，保护隐私。"
+ko-KR,Korean,TuneZen - 기타 튜너 & 메트로놈,"기타, 우쿨렐레, 바이올린, 베이스를 위한 고정밀 튜너 및 메트로놈.","TuneZen은 뮤지션을 위한 프리미엄 고정밀 음정 튜너 및 연습 툴입니다.
+
+주요 기능:
+• 초고정밀 YIN & FFT 음고 감지 알고리즘
+• 가상 스트로보 튜너 & 아날로그 바늘 표시기
+• 24가지 이상의 악기 프리셋: 기타, 우쿨렐레, 베이스, 바이올린, 체조
+• 보컬리스트를 위한 보컬 음정 안정도 그래프
+• 탭 템포 지원 비주얼 메트로놈 (30-300 BPM)
+• 코드 음원 재생 지원 인터랙티브 코드 라이브러리
+• 줄 인토네이션 및 옥타브 진단 도구
+• 100% 오프라인 동작 및 개인정보 보호."
+vi-VN,Vietnamese,TuneZen - Up Chuan Guitar,"Chinh day dan Guitar, Ukulele, Violin, Bass chinh xac & Metronome.","TuneZen la ung dung chinh day dan chuyen nghiep va bo cong cu luyen tap am nhac.
+
+Tinh nang noi bat:
+• Thuat toan nhan dien cao do YIN & FFT chinh xac tuyet doi
+• Giao dien Strobe Tuner va Kim dong ho truc quan
+• Hon 24 thiet lap san: Guitar, Ukulele, Bass, Violin, Cello
+• Bieu do theo doi do on dinh giong hat (Vocal Curve)
+• Metronome hinh anh ho tro Tap Tempo (30-300 BPM)
+• Thu vien hop am tuong tac phat am thanh
+• Cong cu kiem tra intonation va suc khoe day dan
+• 100% Ngoai tuyen & Bao mat thong tin."
+id-ID,Indonesian,TuneZen - Tuner Gitar Akurat,"Tuner presisi tinggi & metronom untuk Gitar, Ukulele, Biola, dan Bass.","TuneZen adalah aplikasi tuner instrumen profesional terbaik untuk musisi.
+
+Fitur Utama:
+• Algoritma deteksi nada YIN & FFT sangat akurat
+• Visualizer Strobe Tuner dan Jarum Analog
+• 24+ preset instrumen: Gitar, Ukulele, Bass, Biola, Cello
+• Grafik stabilitas nada vokal untuk penyanyi
+• Metronom visual dengan fitur Tap Tempo (30-300 BPM)
+• Perpustakaan akord interaktif dengan suara audio
+• Alat diagnosis intonasi dan kualitas senar
+• 100% Offline & Aman."
+th-TH,Thai,TuneZen - เครื่องตั้งสายกีตาร์,เครื่องตั้งสายและเมโทรนอมความแม่นยำสูงสำหรับกีตาร์ อูคูเลเล่ ไวโอลิน เบส,"TuneZen คือเครื่องตั้งสายดนตรีระดับมืออาชีพที่แม่นยำที่สุด
+
+คุณสมบัติหลัก:
+• อัลกอริทึมตรวจจับระดับเสียง YIN & FFT แม่นยำสูง
+• แสดงผลแบบ Strobe Tuner และ เข็มวัดอนาล็อก
+• พรีเซ็ตมากกว่า 24 แบบ: กีตาร์, อูคูเลเล่, เบส, ไวโอลิน, เชลโล
+• กราฟติดตามความนิ่งของเสียงร้อง (Vocal Pitch Curve)
+• เครื่องให้จังหวะ Metronome พร้อม Tap Tempo (30-300 BPM)
+• คลังคอร์ดแบบโต้ตอบพร้อมเสียงตัวอย่าง
+• เครื่องมือตรวจวัด Intonation สายดนตรี
+• ใช้งานแบบออฟไลน์ 100% ปลอดภัย ไม่ต้องใช้อินเทอร์เน็ต"
+ar,Arabic,TuneZen - دوزان الجيتار,موالف دقيق ومتنوم للجيتار والعود والكمان والباص واليوكاليلي.,"برنامج TuneZen هو الموالف الاحترافي الأمثل لدوزان الآلات الموسيقية.
+
+المميزات الرئيسية:
+• خوارزمية YIN & FFT عالية الدقة لتحديد النغمات
+• شاشة دوزان فلاشية افتراضية ومؤشر إبرة دقيق
+• أكثر من 24 ضبطاً مسبقاً: الجيتار، العود، اليوكاليلي، الكمان، الباص
+• منحنى استقرار الصوت الغنائي للمطربين
+• بندول إيقاعي (Metronome) مع خاصية Tap Tempo (30-300 BPM)
+• مكتبة كوردات تفاعلية مع تشغيل الصوتي
+• أداة فحص سلامة الأوتار ودقة الأوكتاف
+• يعمل 100% بدون إنترنت وبخصوصية تامة."
+hi-IN,Hindi,TuneZen - गिह्टार ट्यूनर,"गिटार, यूकुलेले, वायोलिन और बेस के लिए सटीक ट्यूनर और मेट्रोनोम।","TuneZen संगीतकारों के लिए एक बेहतरीन पेशेवर पिच ट्यूनर ऐप है।
+
+मुख्य विशेषताएं:
+• सटीक YIN और FFT पिच पहचान एल्गोरिदम
+• वर्चुअल स्ट्रॉब ट्यूनर और सुई मीटर
+• 24+ उपकरण प्रीसेट: गिटार, यूकुलेले, बेस, वायोलिन
+• गायकों के लिए वोकल पिच स्थिरता ग्राफ
+• टैप टेम्पो के साथ विजुअल मेट्रोनोम (30-300 BPM)
+• ऑडियो प्लेबैक के साथ कॉर्ड लाइब्रेरी
+• 100% ऑफ़लाइन और निजी।"
+tr-TR,Turkish,TuneZen - Gitar Akort Aleti,"Gitar, Ukulele, Keman ve Bas için hassas akort aleti ve metronom.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+nl-NL,Dutch,TuneZen - Gitaar Stemapparaat,"Nauwkeurig stemapparaat & metronoom voor Gitaar, Ukulele, Viool & Bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+pl-PL,Polish,TuneZen - Stroik Gitarowy,"Precyzyjny tuner i metronom dla Gitary, Ukulele, Skrzypiec i Basu.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+uk-UA,Ukrainian,TuneZen - Гітарний Тюнер,"Точний тюнер та метроном для гітари, укулеле, скрипки та басу.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+sv-SE,Swedish,TuneZen - Gitarrstämmaparat,"Exakt stämmapparat & metronom för Gitarr, Ukulele, Fiol och Bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ro-RO,Romanian,TuneZen - Acordor Chitară,"Acordor de precizie și metronom pentru Chitară, Ukulele, Vioară și Bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+cs-CZ,Czech,TuneZen - Ladička Kytary,"Přesná ladička a metronom pro kytaru, ukulele, housle a baskytaru.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+el-GR,Greek,TuneZen - Χορδιστής Κιθάρας,"Χορδιστής ακριβείας & μετρονόμος για Κιθάρα, Γιουκαλίλι, Βιολί & Μπάσο.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+hu-HU,Hungarian,TuneZen - Gitár Hangoló,"Pontos gitárhangoló és metronom Gitárhoz, Ukuleléhez, Hegedűhöz és Basszushoz.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+da-DK,Danish,TuneZen - Guitar Stemmer,"Præcis guitarstemmer og metronom til Guitar, Ukulele, Violin og Bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+fi-FI,Finnish,TuneZen - Kitaran Viritin,"Tarkka viritin ja metronomi kitaralle, ukulelelfe, viululle ja bassolle.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+no-NO,Norwegian,TuneZen - Gitarstemmer,"Presis gitarstemmer og metronom for Gitar, Ukulele, Fiolin og Bass.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+sk-SK,Slovak,TuneZen - Ladička na Gitaru,"Presná ladička a metronóm pre gitaru, ukulele, husle a basgitaru.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+he-IL,Hebrew,TuneZen - טיונר לגיטרה,"טיונר ומטרונום מדויק לגיטרה, יוקללי, כינור ובס.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+fa-IR,Persian,TuneZen - تیونر گیتار,تیونر دقیق و مترونوم برای گیتار، یوکللی، ویولن و بیس.,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+bg-BG,Bulgarian,TuneZen - Тунер за Китара,"Точен тунер и метроном за китара, укулеле, цигулка и бас.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+hr-HR,Croatian,TuneZen - Štimalica za Gitaru,"Precizna štimalica i metronom za Gitaru, Ukulele, Violinu i Bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+lt-LT,Lithuanian,TuneZen - Gitaros Tiuneris,"Tikslus tiuneris ir metronomas gitarai, ukulelei, smuikui ir bosui.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+sl-SI,Slovenian,TuneZen - Uglaševalec Kitare,"Natančen uglaševalec in metronom za kitaro, ukulele, violino in bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+sr-RS,Serbian,TuneZen - Тюнер за Гитару,"Прецизни штимер и метроном за гитару, укулеле, виолину и бас.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+et-EE,Estonian,TuneZen - Kitari Häälestaja,"Täpne kitari häälestaja ja metronoom kitarrile, ukulelele, viiulile.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+lv-LV,Latvian,TuneZen - Ģitāras Skaņotājs,"Precīzs skaņotājs un metronoms ģitārai, ukulelei, vijolei un basam.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ms-MY,Malay,TuneZen - Tuner Gitar Presisi,"Tuner presisi & metronom untuk Gitar, Ukulele, Biola dan Bas.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+fil-PH,Filipino,TuneZen - Gitar Tuner,"Tumpak na tuner at metronome para sa Gitar, Ukulele, Biyolin at Bass.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+sw-KE,Swahili,TuneZen - Gitaa Tuner,"Tuner sahihi ya gitaa na metronome ya Gitaa, Ukulele, Seni na Basi.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+bn-BD,Bengali,TuneZen - গিটার টিউনার,গিটারে সঠিক পিচ টিউনার এবং মেট্রোনোম।,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+te-IN,Telugu,TuneZen - గిటార్ ట్యూనర్,"గిటార్, ఉకులేలే, వయోలిన్ కోసం ఖచ్చితమైన ట్యూనర్.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+mr-IN,Marathi,TuneZen - गिटार ट्यूनर,"गिटार, उकुलेले आणि व्हॉयलिनसाठी अचूक ट्यूनर.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ta-IN,Tamil,TuneZen - கிட்டார் டியூனர்,"கிட்டார், உக்குலேலே, வயலின் துல்லியமான டியூனர்.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ur-PK,Urdu,TuneZen - گٹار ٹیونر,گٹار، یوکلیلے اور وائلن کے لیے درست ٹیونر۔,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+gu-IN,Gujarati,TuneZen - ગિટાર ટ્યુનર,"ગિટાર, ઉકુલેલે અને વાયોલિન માટે ચોક્કસ ટ્યુનર.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+kn-IN,Kannada,TuneZen - ಗಿಟಾರ್ ಟ್ಯೂನರ್,"ಗಿಟಾರ್, ಉಕುಲೇಲೆ ಮತ್ತು ವಯೋಲಿನ್ සඳහා ನಿಖರವಾದ ಟ್ಯೂನರ್.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ml-IN,Malayalam,TuneZen - ഗിറ്റാർ ട്യൂണർ,"ഗിറ്റാർ, ഉക്കുലേലെ, വയലിൻ കൃത്യമായ ട്യൂണർ.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+pa-IN,Punjabi,TuneZen - ਗਿਟਾਰ ਟਿਊਨਰ,"ਗਿਟਾਰ, ਉਕੂਲੇਲੇ ਅਤੇ ਵਾਇਲਨ ਲਈ ਸਹੀ ਟਿਊਨਰ।","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ca-ES,Catalan,TuneZen - Afinador de Guitarra,"Afinador de precisió i metrònom per a Guitarra, Ukelele, Violí i Baix.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+gl-ES,Galician,TuneZen - Afinador de Guitarra,"Afinador de precisión e metrónomo para Guitarra, Ukelele, Violín e Baixo.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+eu-ES,Basque,TuneZen - Gitara Sintonizatzai,"Zehaztasun handiko tuner eta metronomoa Gitarra, Ukulele eta Biolinerako.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+af-ZA,Afrikaans,TuneZen - Kitaar Stemmer,"Presisie kitaar stemmer en metronoom vir Kitaar, Ukulele en Viool.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+is-IS,Icelandic,TuneZen - Gítar Stilling,"Nákvæmur gítarstillingur og taktmælir fyrir Gítar, Ukulele og Violín.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+am-ET,Amharic,TuneZen - ጊታር ማስተካከያ,ለጊታር፣ ኡኩሌሌ እና ቫዮሊን ትክክለኛ ማስተካከያ እና ሜትሮኖም።,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+km-KH,Khmer,TuneZen - ឧបករណ៍សារ៉េហ្គីតា,ឧបករណ៍សារ៉េហ្គីតានិងមេត្រូណូមច្បាស់លាស់សម្រាប់ហ្គីតា។,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+lo-LA,Lao,TuneZen - ເຄື່ອງຈູນກີຕາ,ເຄື່ອງຈູນກີຕາແລະເມໂຕຣໂນມທີ່ມີຄວາມແນ່ນອນສູງ.,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+hy-AM,Armenian,TuneZen - Կիթառի Լարիչ,"Ճշգրիտ լարիչ և մետրոնոմ կիթառի, ուկուլելեի, ջութակի համար:","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+ka-GE,Georgian,TuneZen - გიტარის აწყობა,ზუსტი გიტარის აწყობა და მეტრონომი გიტარისთვის.,"TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."
+az-AZ,Azerbaijani,TuneZen - Gitara Tuneri,"Gitara, Ukulele, Skripka və Bas üçün dəqiq tuner və metronom.","TuneZen is the ultimate professional pitch tuner and practice suite for musicians.
+
+Key Features:
+• Ultra-precise YIN & FFT pitch detection algorithm
+• Virtual Strobe Tuner & Needle Arc visualizers
+• 24+ instrument presets: Guitar, Ukulele, Bass, Violin, Cello, Mandolin & Banjo
+• Vocal pitch stability curve for vocalists and singers
+• Visual Metronome with Tap Tempo engine (30-300 BPM)
+• Interactive Chord Library with tone audio playback
+• String Intonation & Health diagnostic tool
+• 100% Offline & Private – no audio recordings or internet required."

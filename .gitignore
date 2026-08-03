@@ -1,0 +1,40 @@
+# Built files and outputs
+*.iml
+.gradle/
+.kotlin/
+/build/
+**/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+*.ap_
+*.apk
+*.aab
+*.dex
+*.class
+
+# IDE & OS files
+.idea/
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Local configuration & environment files
+local.properties
+.env
+.env.local
+
+# Keystores & signing keys
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+
+# Fastlane / Log files
+*.log
+
+# Python scripts
+*.py
+
