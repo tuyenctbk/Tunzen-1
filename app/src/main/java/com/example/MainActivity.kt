@@ -10,6 +10,8 @@ import androidx.activity.enableEdgeToEdge
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.activity.viewModels
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material.icons.Icons
@@ -23,6 +25,9 @@ import androidx.compose.material3.Icon
 import androidx.compose.material3.NavigationBar
 import androidx.compose.material3.NavigationBarItem
 import androidx.compose.material3.NavigationBarItemDefaults
+import androidx.compose.material3.NavigationRail
+import androidx.compose.material3.NavigationRailItem
+import androidx.compose.material3.NavigationRailItemDefaults
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -33,8 +38,10 @@ import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontWeight
@@ -171,20 +178,21 @@ fun TuneZenApp(viewModel: MainViewModel) {
             onCompleteOnboarding = { viewModel.completeOnboarding() }
         )
     } else {
-        Scaffold(
-            modifier = Modifier.fillMaxSize(),
-            containerColor = OledBackground,
-            bottomBar = {
-                NavigationBar(
+        val configuration = LocalConfiguration.current
+        val isExpanded = configuration.screenWidthDp >= 600
+
+        Row(modifier = Modifier.fillMaxSize()) {
+            if (isExpanded) {
+                NavigationRail(
                     containerColor = SurfaceCard,
                     contentColor = TextPrimary,
-                    tonalElevation = 8.dp,
-                    modifier = Modifier.testTag("tunezen_bottom_navigation_bar")
+                    modifier = Modifier.testTag("tunezen_navigation_rail")
                 ) {
+                    Spacer(modifier = Modifier.height(24.dp))
                     TuneZenTab.entries.forEachIndexed { index, tab ->
                         val isSelected = selectedTab == index
                         val title = stringResource(tab.labelResId)
-                        NavigationBarItem(
+                        NavigationRailItem(
                             selected = isSelected,
                             onClick = { selectedTab = index },
                             icon = {
@@ -200,7 +208,7 @@ fun TuneZenApp(viewModel: MainViewModel) {
                                     fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Medium
                                 )
                             },
-                            colors = NavigationBarItemDefaults.colors(
+                            colors = NavigationRailItemDefaults.colors(
                                 selectedIconColor = OledBackground,
                                 selectedTextColor = CyanAccent,
                                 indicatorColor = CyanAccent,
@@ -212,31 +220,76 @@ fun TuneZenApp(viewModel: MainViewModel) {
                     }
                 }
             }
-        ) { innerPadding ->
-            Box(
-                modifier = Modifier
-                    .fillMaxSize()
-                    .padding(innerPadding)
-            ) {
-                when (TuneZenTab.entries[selectedTab]) {
-                    TuneZenTab.TUNER -> TunerScreen(
-                        viewModel = viewModel,
-                        hasMicPermission = hasMicPermission,
-                        isPermissionDeniedByUser = isPermissionDeniedByUser,
-                        onRequestPermission = { permissionLauncher.launch(Manifest.permission.RECORD_AUDIO) },
-                        onOpenSettings = onOpenSettings,
-                        onNavigateToPresets = { selectedTab = 2 }
-                    )
-                    TuneZenTab.TOOLS -> ToolsScreen(
-                        viewModel = viewModel
-                    )
-                    TuneZenTab.PRESETS -> PresetsScreen(
-                        viewModel = viewModel,
-                        onPresetSelected = { selectedTab = 0 }
-                    )
-                    TuneZenTab.SETTINGS -> SettingsScreen(
-                        viewModel = viewModel
-                    )
+
+            Scaffold(
+                modifier = Modifier.weight(1f),
+                containerColor = OledBackground,
+                bottomBar = {
+                    if (!isExpanded) {
+                        NavigationBar(
+                            containerColor = SurfaceCard,
+                            contentColor = TextPrimary,
+                            tonalElevation = 8.dp,
+                            modifier = Modifier.testTag("tunezen_bottom_navigation_bar")
+                        ) {
+                            TuneZenTab.entries.forEachIndexed { index, tab ->
+                                val isSelected = selectedTab == index
+                                val title = stringResource(tab.labelResId)
+                                NavigationBarItem(
+                                    selected = isSelected,
+                                    onClick = { selectedTab = index },
+                                    icon = {
+                                        Icon(
+                                            imageVector = tab.icon,
+                                            contentDescription = title
+                                        )
+                                    },
+                                    label = {
+                                        Text(
+                                            text = title,
+                                            fontSize = 11.sp,
+                                            fontWeight = if (isSelected) FontWeight.Bold else FontWeight.Medium
+                                        )
+                                    },
+                                    colors = NavigationBarItemDefaults.colors(
+                                        selectedIconColor = OledBackground,
+                                        selectedTextColor = CyanAccent,
+                                        indicatorColor = CyanAccent,
+                                        unselectedIconColor = TextMuted,
+                                        unselectedTextColor = TextMuted
+                                    ),
+                                    modifier = Modifier.testTag("nav_item_${tab.name.lowercase()}")
+                                )
+                            }
+                        }
+                    }
+                }
+            ) { innerPadding ->
+                Box(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(innerPadding)
+                ) {
+                    when (TuneZenTab.entries[selectedTab]) {
+                        TuneZenTab.TUNER -> TunerScreen(
+                            viewModel = viewModel,
+                            hasMicPermission = hasMicPermission,
+                            isPermissionDeniedByUser = isPermissionDeniedByUser,
+                            onRequestPermission = { permissionLauncher.launch(Manifest.permission.RECORD_AUDIO) },
+                            onOpenSettings = onOpenSettings,
+                            onNavigateToPresets = { selectedTab = 2 }
+                        )
+                        TuneZenTab.TOOLS -> ToolsScreen(
+                            viewModel = viewModel
+                        )
+                        TuneZenTab.PRESETS -> PresetsScreen(
+                            viewModel = viewModel,
+                            onPresetSelected = { selectedTab = 0 }
+                        )
+                        TuneZenTab.SETTINGS -> SettingsScreen(
+                            viewModel = viewModel
+                        )
+                    }
                 }
             }
         }

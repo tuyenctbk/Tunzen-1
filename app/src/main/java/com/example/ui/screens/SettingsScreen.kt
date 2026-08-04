@@ -8,6 +8,7 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
@@ -80,15 +81,20 @@ fun SettingsScreen(
     val hapticsEnabled by viewModel.hapticsEnabled.collectAsState()
     val isPaperLightMode by viewModel.isPaperLightMode.collectAsState()
 
-    Column(
-        modifier = modifier
-            .fillMaxSize()
-            .background(OledBackground)
-            .padding(horizontal = 16.dp)
-            .verticalScroll(rememberScrollState())
-            .testTag("settings_screen_column"),
-        verticalArrangement = Arrangement.spacedBy(16.dp)
+    Box(
+        modifier = modifier.fillMaxSize(),
+        contentAlignment = Alignment.TopCenter
     ) {
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .widthIn(max = 600.dp)
+                .background(OledBackground)
+                .padding(horizontal = 16.dp)
+                .verticalScroll(rememberScrollState())
+                .testTag("settings_screen_column"),
+            verticalArrangement = Arrangement.spacedBy(16.dp)
+        ) {
         Spacer(modifier = Modifier.height(12.dp))
 
         Row(
@@ -659,4 +665,5 @@ fun SettingsScreen(
 
         Spacer(modifier = Modifier.height(30.dp))
     }
+}
 }
